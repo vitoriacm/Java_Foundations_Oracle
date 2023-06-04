@@ -19,6 +19,3 @@ Seu programa também deve fazer o seguinte:
 •	Fazer cálculos com pelo menos uma entrada double
 •	Aceitar pelo menos um total de dez entradas 
 
-Esse conjunto de problemas pode criar todo o programa dentro do método principal. 
-
-O arquivo JavaLibsPractice.java está disponível para ajudar você a começar.
