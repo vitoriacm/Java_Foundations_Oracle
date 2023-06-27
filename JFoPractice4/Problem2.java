@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Problem2 {
        Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Digite seu nome: ");
+        System.out.println("Digite seu nome: ");
         String nomeCompleto = scanner.nextLine();
 
         String[] nomes = nomeCompleto.split(" ");
